@@ -31,7 +31,7 @@
 
 
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuvenBoydak&layout=compact">
+<img  align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuvenBoydak&layout=compact">
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=GuvenBoydak&theme=gruvbox">
+<img align="right" width="300px" src="https://github-readme-stats.vercel.app/api?username=GuvenBoydak&theme=gruvbox">
