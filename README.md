@@ -2,8 +2,6 @@
 - I'm teaching and try to working on Full Stack Development.
 - I am a person who has a passion for learning and loves to work without giving up.
 
-
-<br >
 <br >
 
 ### Connect with me:
@@ -29,10 +27,10 @@
 <br >
 <br >
 <br >
-<br >
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GuvenBoydak&theme=gruvbox">
 
-<br >
+
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuvenBoydak&layout=compact">
 
