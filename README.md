@@ -6,11 +6,11 @@
 
 ### Connect with me:
 [<img  width="26" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"  />][linkedin]
-<!--[<img  width="26" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail]-->
+[<img  width="26" src="https://unpkg.com/simple-icons@v6/icons/gmail.svg" align="left" />][gmail]
 [<img  width="26" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
 
 [linkedin]: https://www.linkedin.com/in/g%C3%BCven-boydak-797007211/
-[gmail]: https://mail.google.com/mail/u/0/#inbox?compose=newgvn.boydak@gmail.com
+[gmail]: mailto:https://mail.google.com/mail/u/0/#inbox?compose=newgvn.boydak@gmail.com
 [instagram]: https://www.instagram.com/gvn_boydak/
 
 <br >
