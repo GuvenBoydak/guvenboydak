@@ -1,6 +1,6 @@
 ### Hi there, I'm Güven  Boydak 👋
-- I'm learning and try to working on C# .
-- I am a person who has a passion for learning and loves to work without giving up.
+- I'm learning C#.
+- I am a person who has a passion for learning and who does not give up easily.
 
 <br >
 
