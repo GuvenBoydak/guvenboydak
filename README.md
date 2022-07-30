@@ -1,7 +1,7 @@
 ### Hi there, I'm Güven  Boydak 👋
-- I’m currently learning C#.
+- I’m currently learning .NET.
 - I’m interested in Backend technology
-- I’m looking to collaborate on C# projects
+- I’m looking to collaborate on .NET projects
 - I’m a person who has a passion for learning and who does not give up easily.
 
 <br >
