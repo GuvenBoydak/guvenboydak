@@ -20,6 +20,7 @@
 
 ### Technologies
 <img align="left" alt="C#" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="C#" width="26px"  src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" />
 <img align="left" alt="Dapper" width="30px" src="https://avatars.githubusercontent.com/u/83077457?s=200&v=4" />
  <img align="left" alt="Html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
  <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,7 +29,8 @@
  <img align="left" alt="Mysql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
  <img align="left" alt="PostgreSql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+ <img align="left" alt="Git" width="60px" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" />
+ <img align="left" alt="Git" width="40px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
 
 
 
