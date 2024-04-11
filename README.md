@@ -30,7 +30,6 @@
  <img align="left" alt="PostgreSql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
  <img align="left" alt="rabitmq" width="60px" src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" />
- <img align="left" alt="redis" width="40px" src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" />
 
 
 
